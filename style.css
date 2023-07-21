@@ -8,4 +8,6 @@ body {
     font-size: 1.6rem;
     text-align: center;
     background-color: blue;
+    margin: 20px;
+    padding: 10px;
 }
