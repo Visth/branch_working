@@ -11,4 +11,5 @@ body {
     background-color: rgb(40, 40, 40);
     margin: 2rem;
     padding: 1.8rem;
+    overflow: hidden;
 }
