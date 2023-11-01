@@ -12,3 +12,8 @@ body {
     margin: 2rem;
     padding: 1rem;
 }
+
+.project {
+    color: red;
+    font-size: 11rem;
+}
