@@ -13,3 +13,7 @@ body {
     padding: 1.8rem;
     overflow: hidden;
 }
+
+h1 {
+    color: #ff3232;
+}
