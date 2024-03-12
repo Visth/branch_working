@@ -13,12 +13,12 @@ body {
 h1 {
     font-size: 3.2rem;
     color: #e7129c;
-    margin-bottom: 1.6rem;
 }
 
 h2 {
     font-size: 2.4rem;
     color: rgb(144, 9, 144);
+    margin-top: 1.6rem;
 }
 
 h3 {
